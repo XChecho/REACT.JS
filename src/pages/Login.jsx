@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import "@styles/login.scss"
+import "@styles/Login.scss"
 import logo from "@logos/logo_yard_sale.svg";
 
 const Login = () => {
